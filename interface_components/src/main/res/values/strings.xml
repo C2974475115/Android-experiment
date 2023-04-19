@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name1">Interface_components</string>
+    <string name="red_title">红色</string>
+    <string name="black_title">黑色</string>
+    <string name="font_size">字体大小</string>
+    <string name="font_color">字体颜色</string>
+    <string name="plain_item">普通菜单项</string>
+    <string name="font_小">小</string>
+    <string name="font_中">中</string>
+    <string name="font_大">大</string>
+
+</resources>

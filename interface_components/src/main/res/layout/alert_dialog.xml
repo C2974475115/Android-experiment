@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F8FAFB"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="345dp"
+        android:layout_height="50dp"
+        android:background="@color/yellow"
+        android:gravity="center"
+        android:text="ANDROID APP"
+        android:textAlignment="gravity"
+        android:textColor="@color/white"
+        android:textSize="25dp"
+        android:textStyle="bold"></TextView>
+
+    <EditText
+        android:id="@+id/username"
+        android:layout_width="344dp"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:rotationX="2"
+        android:text="Username" />
+
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="346dp"
+        android:layout_height="60dp"
+        android:inputType="textPersonName"
+        android:rotationX="2"
+        android:text="Password" />
+
+    <Button
+        android:layout_width="165dp"
+        android:layout_height="50dp"
+        android:text="Cancel"
+        android:textSize="15dp"
+        android:textColor="@color/black"
+        android:backgroundTint="#ECE8E8"></Button>
+
+    <View
+        android:layout_width="2dip"
+        android:layout_height="40dp"
+        android:layout_marginLeft="165dp"
+        android:layout_marginTop="-45dp"
+        android:background="#686868">
+    </View>
+
+    <Button
+        android:layout_width="165dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="170dp"
+        android:layout_marginTop="-45dp"
+        android:backgroundTint="#ECE8E8"
+        android:text="Sign in"
+        android:textColor="@color/black"
+        android:textSize="15dp"></Button>
+
+</LinearLayout>

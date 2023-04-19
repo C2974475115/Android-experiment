@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">sy_1</string>
+    <string name="one_one">one,one</string>
+    <string name="one_two">one,two</string>
+    <string name="one_three">one,three</string>
+    <string name="one_four">one,four</string>
+    <string name="two_one">two,one</string>
+    <string name="two_two">two,two</string>
+    <string name="two_three">two,three</string>
+    <string name="two_four">two,four</string>
+    <string name="three_one">three,one</string>
+    <string name="three_two">three,two</string>
+    <string name="three_three">three,three</string>
+    <string name="three_four">three,four</string>
+    <string name="four_one">four,one</string>
+    <string name="four_two">four,two</string>
+    <string name="four_three">four,three</string>
+    <string name="four_four">four,four</string>
+</resources>

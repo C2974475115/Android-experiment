@@ -1,4 +1,4 @@
-﻿实验一 [Hello World](https://github.com/C2974475115/Android-experiment/tree/master/Hello%20World)
+﻿实验一 [Hello World](https://github.com/C2974475115/Android-experiment/tree/master/Hello%20World/.idea)
 
 实验二 [Interfac_layout](https://github.com/C2974475115/Android-experiment/tree/master/Interfac_layout)
 
